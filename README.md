@@ -8,7 +8,7 @@
       <p><b>Position: Doctoral candidate</b></p>
       <p><b>Email: brj030@stu.xjtu.edu.cn</b></p>
       <p><b>Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, China</b></p>
-      <p><a href="/README-CN.html">Chinese Version2</a></p>
+      <p><a href="/README-CN.html">Chinese CV (click here)</a></p>
     </td>
     <td width="10%">
       <img src="/Rong-Jing Bao.jpg" width="100%">
