@@ -45,8 +45,8 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ## MISCELLANEOUS
 ● Skills: Video clips (Adobe Premiere)
 
-<p>● Hobbies:->Playing tennis, swimming, fitness, hiking, and so on.</p>
-<style>p.indent{ padding-left: 1.8em }</style>->Successfully completed 2018 Xi’an Yango International Marathon, Xi’an, China.
+● Hobbies:<p>->Playing tennis, swimming, fitness, hiking, and so on.</p>
+</p>->Successfully completed 2018 Xi’an Yango International Marathon, Xi’an, China.</p>
 
 
 ## PUBLICATIONS
