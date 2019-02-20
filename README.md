@@ -32,3 +32,14 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ● Reviewer of IEEE Trans. on Industrial Informatics and Evolving Systems.
 ## Conference Activities
 ● Oral presentation, IEEE 4th International Conference on Data Science and Systems (DSS 2018), Exeter, UK, 2018.
+
+### AWARDS
+● 2006        Freshmen Scholarship (once) 
+
+● 2007        People’s Scholarship (once)  
+
+● 2012-2016    National Grants (5 times)                                       
+
+● 2014-2016    Second-class Academic Scholarship (3 times) 
+
+
