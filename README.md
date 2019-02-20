@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Rong-Jing, Bao (鲍容憬)</h1>
       <p><b>Ancestral Native Place：Taizhou City, Jiangsu (江苏泰州市)</b></p>
       <p><b>Institution: Xi’an Jiaotong University</b></p>
