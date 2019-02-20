@@ -7,7 +7,7 @@
       <p><b>Department: School of Aerospace</b></p>
       <p><b>Position: Doctoral candidate</b></p>
       <p><b>Email: brj030@stu.xjtu.edu.cn</b></p>
-      <p><b>Mailing Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, P.R. China</b></p>
+      <p><b>Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, P.R. China</b></p>
     </td>
     <td width="10%">
       <img src="/Rong-Jing Bao.jpg" width="100%">
