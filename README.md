@@ -74,4 +74,4 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 
 [4] Guang-She Zhao, Zhao-Xu Yang, Hai-Jun Rong, <b>Rong-Jing Bao</b> and Leitao Gao. Adaptive robust control method for aircraft based on recursive least squares (基于核递归最小二乘算法的自适应飞行器鲁棒控制方法). CN201710171108.0, Jul. 25, 2017. (Filed)
 
-<a href="/README-CN.html">Chinese Version</a>
+<a href="/README-CN.md">Chinese Version</a>
