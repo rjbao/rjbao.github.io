@@ -67,14 +67,13 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 
 [3] Hai-Jun Rong, <b>Rong-Jing Bao</b> and Guang-She Zhao. Model reference adaptive neural control for nonlinear systems based on back-propagation and extreme learning machine. IEEE Ninth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), Singapore, Singapore, Apr. 21-24, 2014: 1-6.
 ### Patents
-[1] Hai-Jun Rong, <b>Rong-Jing Bao</b>, Li Wang, Zhao-Xu Yang, Changjun Li and Sisi Wu. FPGA implementation method of BTT missile autopilot with backstepping neural network (BTT导弹神经网络反演自动驾驶仪的FPGA实现方法). CN201610479531.2, Jun. 27, 2017. (Granted) 
+[1] Hai-Jun Rong, <b>Rong-Jing Bao</b>, Li Wang, Zhao-Xu Yang, Changjun Li and Sisi Wu. FPGA implementation method of BTT missile autopilot with backstepping neural network. CN201610479531.2, Jun. 27, 2017. (Granted) 
 
-[2] Hai-Jun Rong, Mingjia Zhang, Xiaoyang Feng, <b>Rong-Jing Bao</b>, Zhao-Xu Yang, Pengcheng Ouyang and Jintao Wei. Sensor fault diagnosis approach based on fuzzy system with adaptive structure (变结构模糊系统传感器故障诊断方法). CN201310413409.1, Dec. 2, 2015. (Granted)
+[2] Hai-Jun Rong, Mingjia Zhang, Xiaoyang Feng, <b>Rong-Jing Bao</b>, Zhao-Xu Yang, Pengcheng Ouyang and Jintao Wei. Sensor fault diagnosis approach based on fuzzy system with adaptive structure. CN201310413409.1, Dec. 2, 2015. (Granted)
 
-[3] Sisi Wu, Guang-She Zhao, Hai-Jun Rong, <b>Rong-Jing Bao</b> and Changjun Li. A multisource data fusion prognostic approach for aero-engines (一种多源数据融合的航空涡扇发动机剩余寿命预测方法). CN201710287759.6, Sept. 12, 2017. (Filed)
+[3] Sisi Wu, Guang-She Zhao, Hai-Jun Rong, <b>Rong-Jing Bao</b> and Changjun Li. A multisource data fusion prognostic approach for aero-engines. CN201710287759.6, Sept. 12, 2017. (Filed)
 
-[4] Guang-She Zhao, Zhao-Xu Yang, Hai-Jun Rong, <b>Rong-Jing Bao</b> and Leitao Gao. Adaptive robust control method for aircraft based on recursive least squares (基于核递归最小二乘算法的自适应飞行器鲁棒控制方法). CN201710171108.0, Jul. 25, 2017. (Filed)
-
+[4] Guang-She Zhao, Zhao-Xu Yang, Hai-Jun Rong, <b>Rong-Jing Bao</b> and Leitao Gao. Adaptive robust control method for aircraft based on recursive least squares. CN201710171108.0, Jul. 25, 2017. (Filed)
 
 
 
