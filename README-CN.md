@@ -7,7 +7,7 @@
       <p><b>航天航空学院博士研究生</b></p>
       <p><b>陕西省西安市碑林区咸宁西路28号</b></p>
       <p><b>邮箱地址：brj030@stu.xjtu.edu.cn</b></p>
-      <p><a href="/README.html">English CV (click here)</a></p>
+      <p><a href="/README-EN.html">English CV (click here)</a></p>
     </td>
     <td width="10%">
       <img src="/Rong-Jing Bao.jpg" width="100%">
