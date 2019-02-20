@@ -7,7 +7,7 @@
       <p><b>Department: School of Aerospace</b></p>
       <p><b>Position: Doctoral candidate</b></p>
       <p><b>Email: brj030@stu.xjtu.edu.cn</b></p>
-      <p><b>Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, P.R. China</b></p>
+      <p><b>Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, China</b></p>
     </td>
     <td width="10%">
       <img src="/Rong-Jing Bao.jpg" width="100%">
@@ -45,14 +45,14 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ## MISCELLANEOUS
 ● Skills: Video clips (Adobe Premiere)
 
-● Hobbies: 
+● Hobbies:
 ->Playing tennis, swimming, fitness, hiking, and so on.
 ->Successfully completed 2018 Xi’an Yango International Marathon, Xi’an, China.
 
 
 ## PUBLICATIONS
 ### Journal Papers
-[1] Rong-Jing Bao, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 5.4).
+[1] <p><b>Rong-Jing Bao</b></p>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 5.4).
 
 [2] Rong-Jing Bao, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.4).
 
