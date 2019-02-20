@@ -22,8 +22,11 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ### ACTIVITIES
 ## Social Activities
 ● Volunteer, Asia-pacific Broadcasting Union Robot Contest (ABU Robocon) National Trials, Beijing, China, 2007.
+
 ● Leader, Social practice group, Beijing, China, 2007.
+
 ● Intern with the Coca-Cola company, 2008 Beijing Summer Olympics, Beijing, China, 2008.
+
 ● Intern with the Coca-Cola company, 2008 Beijing Paralympic Games, Beijing, China, 2008.
 ## Review Activities
 ● Reviewer of IEEE Trans. on Industrial Informatics and Evolving Systems.
