@@ -18,3 +18,14 @@
 ### Brief Biography
 Rong-Jing Bao received the B.Eng. degree in electronic and information engineering from the University
 of Science and Technology Beijing, Beijing, China, in 2010. He is currently working toward the Ph.D. degree in School of Aerospace, Xi’an Jiaotong University, Xi’an, China. His current research interests include intelligent maintenance systems, fuzzy systems, pattern recognition and intelligent control.
+
+### ACTIVITIES
+## Social Activities
+● Volunteer, Asia-pacific Broadcasting Union Robot Contest (ABU Robocon) National Trials, Beijing, China, 2007.
+● Leader, Social practice group, Beijing, China, 2007.
+● Intern with the Coca-Cola company, 2008 Beijing Summer Olympics, Beijing, China, 2008.
+● Intern with the Coca-Cola company, 2008 Beijing Paralympic Games, Beijing, China, 2008.
+## Review Activities
+● Reviewer of IEEE Trans. on Industrial Informatics and Evolving Systems.
+## Conference Activities
+● Oral presentation, IEEE 4th International Conference on Data Science and Systems (DSS 2018), Exeter, UK, 2018.
