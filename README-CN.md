@@ -4,10 +4,10 @@
       <h1>Rong-Jing, Bao (鲍容憬)</h1>
       <b><p>籍贯：江苏泰州</b></p>
       <b><p>西安交通大学</b></p>
-      <b><p>航天航空学院 博士研究生</b></p>
+      <b><p>航天航空学院博士研究生</b></p>
       <b><p>陕西省西安市碑林区咸宁西路28号</b></p>
       <b><p>邮箱地址：brj030@stu.xjtu.edu.cn</b></p>
-      <p><a href="/README-CN.html">Chinese CV (click here)</a></p>
+      <p><a href="/README.html">English CV (click here)</a></p>
     </td>
     <td width="10%">
       <img src="/Rong-Jing Bao.jpg" width="100%">
@@ -15,12 +15,7 @@
   </tr>
 </table>
 
-## Brief Biography
-Rong-Jing Bao received the B.Eng. degree in electronic and information engineering from the University
-of Science and Technology Beijing, Beijing, China, in 2010. He is currently working toward the Ph.D. degree in School of Aerospace, Xi’an Jiaotong University, Xi’an, China. His current research interests include intelligent maintenance systems, fuzzy systems, pattern recognition and intelligent control.
-
-## 实践经历&课外活动
-### Social Activities
+## 实践经历&社会活动
 2011—2012年    西安交通大学      航天航空学院研究生会实践部部长          西安
                  ●     组织学院研究生参加学校和学院的活动，例如运动会、歌唱比赛和元旦晚会等等
 2009年          石家庄广播电视台                                        石家庄
@@ -38,21 +33,20 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ●       组织学校大型学生活动，如学术之星、文艺晚会等
 
 
-## AWARDS
-● 2006        Freshmen Scholarship (once) 
+## 获奖情况
+<p>● 2006        新生入学奖学金 (1次)</p> 
+<p>● 2007        人民奖学金 (1次)</p>  
+<p>● 2012-2016    国家助学金 (5次)</p>                                       
+<p>● 2014-2016    二等学业奖学金 (3次)</p>
 
-● 2007        People’s Scholarship (once)  
+## 语言&技能
+<p>●   英语技能：熟练掌握口语交流和写作能力</p>
+<p>●   计算机技能：使用Adobe Premiere进行视频剪辑</p>
 
-● 2012-2016    National Grants (5 times)                                       
 
-● 2014-2016    Second-class Academic Scholarship (3 times) 
-
-## MISCELLANEOUS
-● Skills: Video clips (Adobe Premiere)
-
-● Hobbies:
-->Playing tennis, swimming, fitness, hiking, and so on.
-->Successfully completed 2018 Xi’an Yango International Marathon, Xi’an, China.
+## 其他信息
+->爱好旅行和体育运动，尤其球类运动和登山，并健身8年多
+->成功完赛2018西安阳光城国际马拉松
 
 
 ## PUBLICATIONS
