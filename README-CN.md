@@ -19,19 +19,24 @@
 Rong-Jing Bao received the B.Eng. degree in electronic and information engineering from the University
 of Science and Technology Beijing, Beijing, China, in 2010. He is currently working toward the Ph.D. degree in School of Aerospace, Xi’an Jiaotong University, Xi’an, China. His current research interests include intelligent maintenance systems, fuzzy systems, pattern recognition and intelligent control.
 
-## ACTIVITIES
+## 实践经历&课外活动
 ### Social Activities
-● Volunteer, Asia-pacific Broadcasting Union Robot Contest (ABU Robocon) National Trials, Beijing, China, 2007.
+2011—2012年    西安交通大学      航天航空学院研究生会实践部部长          西安
+                 ●     组织学院研究生参加学校和学院的活动，例如运动会、歌唱比赛和元旦晚会等等
+2009年          石家庄广播电视台                                        石家庄
+●      参观并了解石家庄广播电视台
+2008年          可口可乐公司      奥运畅爽队实习生                        北京
+●      北京奥运会曲棍球场可口可乐实习生         
+●      北京残奥会国家体育场可口可乐实习生
+2007年          北京科技大学      社会实践团团长                          北京
+●      到社区分发宣传资料，进行奥运宣讲，做调查问卷
+●      分别与海淀区志新社区和东王庄社区举办奥运文艺节目演出
+           CCTV            志愿者                                  北京
+●     “神州电脑”杯2007亚太大学生机器人大赛国内选拔赛志愿者
+                 北京科技大学      学生会组织部副部长                      北京
+●       接待校友返校参观，协助筹备55周年校庆活动
+●       组织学校大型学生活动，如学术之星、文艺晚会等
 
-● Leader, Social practice group, Beijing, China, 2007.
-
-● Intern with the Coca-Cola company, 2008 Beijing Summer Olympics, Beijing, China, 2008.
-
-● Intern with the Coca-Cola company, 2008 Beijing Paralympic Games, Beijing, China, 2008.
-### Review Activities
-● Reviewer of IEEE Trans. on Industrial Informatics and Evolving Systems.
-### Conference Activities
-● Oral presentation, IEEE 4th International Conference on Data Science and Systems (DSS 2018), Exeter, UK, 2018.
 
 ## AWARDS
 ● 2006        Freshmen Scholarship (once) 
