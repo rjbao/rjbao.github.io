@@ -49,15 +49,16 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 ● Hobbies:
 ->Playing tennis, swimming, fitness, hiking, and so on.
 ->Successfully completed 2018 Xi’an Yango International Marathon, Xi’an, China.
+->Successfully completed 2019 Xi’an Qujiang Xi'hang Aluminium International Half Marathon, Xi’an, China.
 
 
 ## PUBLICATIONS
 ### Journal Papers
-[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 5.4).
+[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 7.38).
 
-[2] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.4).
+[2] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.76).
 
-[3] Zhao-Xu Yang, Guang-She Zhao, <b>Rong-Jing Bao</b>, Hai-Jun Rong and Lei-Tao Gao. Robust kernel-based model reference adaptive control for unstable aircraft. Advances in Mechanical Engineering. 2016, 8(11): 1-12 (IF: 0.8).
+[3] Zhao-Xu Yang, Guang-She Zhao, <b>Rong-Jing Bao</b>, Hai-Jun Rong and Lei-Tao Gao. Robust kernel-based model reference adaptive control for unstable aircraft. Advances in Mechanical Engineering. 2016, 8(11): 1-12 (IF: 0.83).
 
 [4] Hai-Jun Rong, <b>Rong-Jing Bao</b> and Xianghui Gao. Backstepping neural control design for BTT missiles with randomly assigned parameters of hidden nodes. International Journal of Aerospace and Lightweight Structures. 2015, 5(3).
 ### Conference Papers
