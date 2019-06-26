@@ -52,15 +52,16 @@
 ## 其他信息
 ->爱好旅行和体育运动，尤其球类运动和登山，并健身8年多
 ->成功完赛2018西安阳光城国际马拉松
+->成功完赛2019西安曲江(西航铝业)国际半程马拉松
 
 
 ## 论文
 ### 期刊论文
-[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 5.4).
+[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 7.38).
 
-[2] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.4).
+[2] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.76).
 
-[3] Zhao-Xu Yang, Guang-She Zhao, <b>Rong-Jing Bao</b>, Hai-Jun Rong and Lei-Tao Gao. Robust kernel-based model reference adaptive control for unstable aircraft. Advances in Mechanical Engineering. 2016, 8(11): 1-12 (IF: 0.8).
+[3] Zhao-Xu Yang, Guang-She Zhao, <b>Rong-Jing Bao</b>, Hai-Jun Rong and Lei-Tao Gao. Robust kernel-based model reference adaptive control for unstable aircraft. Advances in Mechanical Engineering. 2016, 8(11): 1-12 (IF: 0.83).
 
 [4] Hai-Jun Rong, <b>Rong-Jing Bao</b> and Xianghui Gao. Backstepping neural control design for BTT missiles with randomly assigned parameters of hidden nodes. International Journal of Aerospace and Lightweight Structures. 2015, 5(3).
 ### 会议论文
