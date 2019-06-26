@@ -2,11 +2,11 @@
   <tr>
     <td width="90%">
       <h1>Rong-Jing, Bao (鲍容憬)</h1>
-      <p><b>籍贯：江苏泰州市</b></p>
+      <p><b>籍贯：江苏省泰州市</b></p>
       <p><b>西安交通大学</b></p>
       <p><b>航天航空学院博士研究生</b></p>
       <p><b>陕西省西安市碑林区咸宁西路28号</b></p>
-      <p><b>邮箱地址：brj030@stu.xjtu.edu.cn</b></p>
+      <p><b>邮箱地址：brj_qq@126.com; brj030@stu.xjtu.edu.cn</b></p>
       <p><a href="/README-EN.html">English CV (click here)</a></p>
     </td>
     <td width="10%">
