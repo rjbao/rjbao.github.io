@@ -6,7 +6,7 @@
       <p><b>Institution: Xi’an Jiaotong University</b></p>
       <p><b>Department: School of Aerospace</b></p>
       <p><b>Position: Doctoral candidate</b></p>
-      <p><b>Email: brj_qq@126.com brj030@stu.xjtu.edu.cn</b></p>
+      <p><b>Email: brj_qq@126.com; brj030@stu.xjtu.edu.cn</b></p>
       <p><b>Address: No.28, Xianning West Road, Xi’an, Shaanxi, 710049, China</b></p>
       <p><a href="/README-CN.html">Chinese CV (click here)</a></p>
     </td>
