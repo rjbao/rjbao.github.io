@@ -54,7 +54,7 @@ of Science and Technology Beijing, Beijing, China, in 2010. He is currently work
 
 ## PUBLICATIONS
 ### Journal Papers
-[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, DOI: 10.1109/TII.2019.2896288 (IF: 7.38).
+[1] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Zhi-Xin Yang and Badong Chen. A novel prognostic approach for RUL estimation with evolving joint prediction of continuous and discrete states. IEEE Transactions on Industrial Informatics. 2019, 15(9): 5089-5098 (IF: 7.38).
 
 [2] <b>Rong-Jing Bao</b>, Hai-Jun Rong, Plamen P. Angelov and Badong Chen, Pak Kin Wong. Correntropy-based evolving fuzzy neural system. IEEE Transactions on Fuzzy Systems. 2018, 26(3): 1324-1338 (IF: 8.76).
 
